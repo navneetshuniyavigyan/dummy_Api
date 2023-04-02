@@ -1,0 +1,133 @@
+{
+  "course_id": "01",
+  "course_name": "The best python course",
+  "course_ratings": "4.9",
+  "course_thumbnail": "https://cdn.hackr.io/uploads/posts/large/1650931801t1XEesVXGr.png",
+  "course_instructor_name": "Mr. Vivek",
+  "course_instructor_desc": "He is a very good instructor from Harvard",
+  "course_price": "$ 80",
+  "number_of_weeks": "2",
+  "user_details": {
+    "user_id": "vivek123",
+    "username": "Vivek Srivastava",
+    "user_progress": "65% ",
+    "course_completed": false
+  },
+  "language": "english",
+  "course_module_english": [
+    {
+      "week_01": {
+        "week_number": 1,
+        "length_of_week": "6hr 5mins",
+        "topics": [
+          {
+            "topic_number": 1,
+            "topic_title": "Topic 01",
+            "length_of_topic": "6hr 5mins",
+            "description": "A short description about the topic 1 goes here",
+            "content": "whole topic 1 content will go here",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          },
+          {
+            "topic_number": 2,
+            "topic_title": "Topic 02",
+            "length_of_topic": "6hr 5mins",
+            "description": "A short description about the topic 2 goes here",
+            "content": "whole topic 2 content will go here",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          }
+        ],
+        "Week_quiz": {
+          "Quiz_id": "quiz_01234"
+        }
+      },
+      "week_02": {
+        "week_number": 2,
+        "length_of_week": "6hr 5mins",
+        "topics": [
+          {
+            "topic_number": 1,
+            "topic_title": "Topic 01",
+            "length_of_topic": "6hr 5mins",
+            "description": "A short description about the topic 1 goes here",
+            "content": "whole topic 1 content will go here",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          },
+          {
+            "topic_number": 2,
+            "topic_title": "Topic 02",
+            "length_of_topic": "6hr 5mins",
+            "description": "A short description about the topic 2 goes here",
+            "content": "whole topic 2 content will go here",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          }
+        ],
+        "Week_quiz": {
+          "Quiz_id": "quiz_01234"
+        }
+      }
+    }
+  ],
+  "course_module_hindi": [
+    {
+      "week_01": {
+        "week_number": 1,
+        "length_of_week": "6hr 5mins",
+        "topics": [
+          {
+            "topic_number": 1,
+            "topic_title": "विषय १",
+            "length_of_topic": "6hr 5mins",
+            "description": "विषय 1 के बारे में एक संक्षिप्त विवरण यहाँ जाता है",
+            "content": "संपूर्ण विषय 1 सामग्री यहां जाएगी",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          },
+          {
+            "topic_number": 1,
+            "topic_title": "विषय २",
+            "length_of_topic": "6hr 5mins",
+            "description": "विषय २ के बारे में एक संक्षिप्त विवरण यहाँ जाता है",
+            "content": "संपूर्ण विषय २ सामग्री यहां जाएगी",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          }
+        ],
+        "Week_quiz": {
+          "Quiz_id": "quiz_01234"
+        }
+      },
+      "week_02": {
+        "week_number": 1,
+        "length_of_week": "6hr 5mins",
+        "topics": [
+          {
+            "topic_number": 1,
+            "topic_title": "विषय १",
+            "length_of_topic": "6hr 5mins",
+            "description": "विषय 1 के बारे में एक संक्षिप्त विवरण यहाँ जाता है",
+            "content": "संपूर्ण विषय 1 सामग्री यहां जाएगी",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          },
+          {
+            "topic_number": 1,
+            "topic_title": "विषय २",
+            "length_of_topic": "6hr 5mins",
+            "description": "विषय २ के बारे में एक संक्षिप्त विवरण यहाँ जाता है",
+            "content": "संपूर्ण विषय २ सामग्री यहां जाएगी",
+            "video_link": "https://drive.google.com/file/d/1ojjs0E86zqo3l9C844fTfNT6oB-oOh4E/view?usp=share_link",
+            "video_thumbnail": "https://www.techaltum.com/img/python-banner.jpg"
+          }
+        ],
+        "Week_quiz": {
+          "Quiz_id": "quiz_01234"
+        }
+      }
+    }
+  ]
+}
